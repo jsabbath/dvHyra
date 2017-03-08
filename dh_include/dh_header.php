@@ -12,8 +12,8 @@ echo '
 	<head>
 		<meta charset="UTF-8">
 		<title> devHuayra | Soluciones TI </title>
-		<!--link rel="shortcut icon" type="image/ico" href="assets/img/icon.png"-->
-		<link rel="shortcut icon" type="image/ico" href="assets/img/logo-devhuayra.png">
+		<link rel="shortcut icon" type="image/ico" href="assets/img/icon.png">
+		<!--link rel="shortcut icon" type="image/ico" href="assets/img/logo-devhuayra.png"-->
 
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
@@ -64,11 +64,11 @@ echo '
 			<a href="'.$link5.'">
 				<li class='.$act5.'><i class="mdi mdi-message-text"></i> Contáctanos</li>
 			</a>
-			<a>
+			<!--a>
 				<li>
 					<input type="" placeholder="Busqueda" style="padding: 3px; border-radius: 5px; font-size: 13px; font-weight: 600;">
 				</li>
-			</a>
+			</a-->
 			<!--a href="" style="color:white; text-decoration: none; border: solid 2px white; padding: 5px 10px 5px 10px;border-radius: 2px; margin: 0px 10px 0px 10px">
 				<i class="mdi mdi-account-key"></i> Ingresar
 			</a-->
